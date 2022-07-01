@@ -19,6 +19,8 @@ Multi-language and multi-platform supported python-based notepad application.
 - Multi-language Support (EN,TR Supported For Now)
 - You can contribute for more languages, themes and features.
   
+  
+  
 ## How To Run XNotepad
 
 Clone the project
@@ -43,6 +45,8 @@ or
   python3 main.pyw
 ```
 
+  
+  
   
 ## Contributing
 
