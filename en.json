@@ -1,0 +1,25 @@
+{
+    "launchinfo": "XNotepad Started.",
+    "file": "File",
+    "newfile": "New File",
+    "openfile": "Open File",
+    "savefile": "Save",
+    "settings": "Settings",
+    "exit": "Exit",
+    "edit": "Edit",
+    "paste": "Paste",
+    "undo": "Undo",
+    "help": "Help",
+    "about": "About",
+    "aboutapp": "XNotepad",
+    "aboutwho": "This app made by:",
+    "saveas": "Save File",
+    "savelocal": "Save As Local File",
+    "asktosave": "Do You Want To Save Current File?",
+    "yes": "Yes",
+    "no": "No",
+    "exitwithoutsave": "Are you sure you want to exit without saving?",
+    "selectfile": "Select File",
+    "openchosen": "Open Selected File"
+
+}

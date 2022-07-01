@@ -1,0 +1,25 @@
+{
+    "launchinfo": "XNotepad Başlatıldı.",
+    "file": "Dosya",
+    "newfile": "Yeni Dosya",
+    "openfile": "Dosya Aç",
+    "savefile": "Kaydet",
+    "settings": "Ayarlar",
+    "exit": "Çıkış",
+    "edit": "Düzenle",
+    "paste": "Yapıştır",
+    "undo": "Geri Al",
+    "help": "Yardım",
+    "about": "Hakkında",
+    "aboutapp": "Not Defteri",
+    "aboutwho": "Bu uygulamayı yapanlar:",
+    "saveas": "Dosyayı Kaydet",
+    "savelocal": "Dosyayı Yerel Olarak Kaydet",
+    "asktosave": "Çalıştığınız dosyayı kaydetmek istiyor musunuz?",
+    "yes": "Evet",
+    "no": "Hayır",
+    "exitwithoutsave": "Kaydetmeden Çıkmak İstediğinize Emin Misiniz?",
+    "selectfile": "Dosya Seç",
+    "openchosen": "Seçilen Dosyayı Aç"
+
+}
