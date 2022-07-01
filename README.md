@@ -6,7 +6,7 @@ Multi-language and multi-platform supported python-based notepad application.
 
 ## Github Project Stats
 
-[![ISSUES](https://img.shields.io/github/issues/Eta06/XNotepad)](https://github.com/Eta06/XNotepad/blob/main/LICENSE.md) [![MIT License (https://img.shields.io/apm/l/atomic-design-ui.svg?)](https://github.com/Eta06/XNotepad/blob/main/LICENSE.md)
+[![ISSUES](https://img.shields.io/github/issues/Eta06/XNotepad)](https://github.com/Eta06/XNotepad/blob/main/LICENSE.md) [![MIT License](https://img.shields.io/apm/l/atomic-design-ui.svg?)](https://github.com/Eta06/XNotepad/blob/main/LICENSE.md)
 
 
 
